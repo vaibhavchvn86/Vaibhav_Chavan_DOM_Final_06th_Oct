@@ -2,7 +2,7 @@
 
 # Cryptocurrency Market Data Dashboard
 
-A simple web dashboard to display the top 10 cryptocurrencies based on market capitalization. The data is fetched from the CoinGecko API and presented in a table format with HTML and CSS.
+A simple web dashboard to display the top 10 cryptocurrencies based on market capitalization. The data is fetched from the CoinGecko API using async-await and presented in a table format with HTML and CSS.
 
 ## Getting Started
 
